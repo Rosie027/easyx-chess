@@ -1,0 +1,17 @@
+build/
+.vs/
+.vscode/
+.trae/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.user
+*.suo
+*.log
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
